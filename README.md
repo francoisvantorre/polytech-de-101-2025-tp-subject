@@ -162,9 +162,9 @@ Cependant, ce pipeline ETL permet in fine de réaliser des analyses simples des 
 Pour faire fonctionner ce sujet, c'est assez simple:
 
 ```bash 
-git clone https://github.com/kevinl75/polytech-de-101-2024-tp-subject.git
+git clone https://github.com/kevinl75/polytech-de-101-2025-tp-subject.git
 
-cd polytech-de-101-2024-tp-subject
+cd polytech-de-101-2025-tp-subject
 
 python3 -m venv .venv
 
